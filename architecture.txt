@@ -1,0 +1,53 @@
+evoria/
+│
+├── README.md
+├── .gitignore
+├── LICENSE
+├── architecture.txt
+├── docs/
+│   ├── cahier-des-charges.md
+│   ├── roadmap.md
+│   ├── user-stories.md
+│   ├── maquettes/
+│   └── screenshots/
+│
+├── frontend/
+│   ├── package.json
+│   ├── tsconfig.json
+│   ├── vite.config.ts
+│   ├── public/
+│   └── src/
+│       ├── assets/
+│       ├── components/
+│       │   ├── ui/
+│       │   ├── layout/
+│       │   └── features/
+│       ├── pages/
+│       ├── routes/
+│       ├── services/
+│       ├── hooks/
+│       ├── types/
+│       ├── utils/
+│       ├── App.tsx
+│       └── main.tsx
+│
+├── backend/
+│   ├── requirements.txt
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── core/
+│   │   ├── db/
+│   │   ├── models/
+│   │   ├── schemas/
+│   │   ├── crud/
+│   │   ├── api/
+│   │   │   └── v1/
+│   │   └── services/
+│   └── tests/
+│
+└── .github/
+    ├── ISSUE_TEMPLATE/
+    │   ├── bug_report.md
+    │   ├── feature_request.md
+    │   └── task.md
+    └── pull_request_template.md
