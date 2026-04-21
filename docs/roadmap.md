@@ -7,7 +7,8 @@
 
 ## v0.2 - Événements
 - CRUD événements
-- Liste + détail
+- Liste des événements
+- Page détails
 
 ## v0.3 - Tâches
 - CRUD tâches
@@ -21,3 +22,4 @@
 - Notes
 - Ressources
 - Budget
+- Carnet de bord
