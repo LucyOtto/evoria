@@ -3,7 +3,9 @@ evoria/
 ├── README.md
 ├── .gitignore
 ├── LICENSE
-├── architecture.txt
+├── design/
+    ├── brand-guidelines.md
+    ├── ui-kit-design-system.md
 ├── docs/
 │   ├── cahier-des-charges.md
 │   ├── roadmap.md
@@ -20,7 +22,39 @@ evoria/
 │       ├── assets/
 │       ├── components/
 │       │   ├── ui/
+│	    │   │	├── button.tsx
+│	    │   │	├── input.tsx
+│    	│   │	├── textarea.tsx
+│    	│   │	├── select.tsx
+│    	│   │	├── checkbox.tsx
+│    	│   │	├── radio-group.tsx
+│    	│   │	├── switch.tsx
+│    	│   │	├── badge.tsx
+│    	│   │	├── avatar.tsx
+│    	│   │	├── card.tsx
+│    	│   │	├── tabs.tsx
+│    	│   │	├── modal.tsx
+│   	│   │	├── drawer.tsx
+│    	│   │	├── tooltip.tsx
+│    	│   │	├── toast.tsx
+│    	│   │	├── table.tsx
+│    	│   │	├── skeleton.tsx
+│    	│   │	├── progress.tsx
+│    	│   │	├── pagination.tsx
+│    	│   │	└── breadcrumb.tsx
 │       │   ├── layout/
+│	    │   │	├── sidebar.tsx
+│    	│   │	├── sidebar-item.tsx
+│    	│   │	└── topbar.tsx
+│	    │   │	app/
+│	    │   │	├── project-card.tsx
+│    	│   │	├── task-card.tsx
+│    	│   │	├── task-row.tsx
+│    	│   │	├── activity-item.tsx
+│    	│   │	├── kpi-stat-card.tsx
+│    	│   │	├── comment-block.tsx
+│    	│   │	├── member-pill.tsx
+│    	│   │	└── filter-bar.tsx
 │       │   └── features/
 │       ├── pages/
 │       ├── routes/
