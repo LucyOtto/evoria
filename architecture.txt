@@ -4,8 +4,8 @@ evoria/
 ├── .gitignore
 ├── LICENSE
 ├── design/
-    ├── brand-guidelines.md
-    ├── ui-kit-design-system.md
+│   ├── brand-guidelines.md
+│   ├── ui-kit-design-system.md
 ├── docs/
 │   ├── cahier-des-charges.md
 │   ├── roadmap.md
