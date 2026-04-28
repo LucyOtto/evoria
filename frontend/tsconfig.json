@@ -1,1 +1,4 @@
-
+fontFamily: {
+  heading: ["Sora", "system-ui", "sans-serif"],
+  body: ["Inter", "system-ui", "sans-serif"],
+}
