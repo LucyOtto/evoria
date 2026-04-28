@@ -1443,10 +1443,13 @@ components/
 
 ---
 
-## 15. Étape suivante recommandée
+## 15. Sprint 1 — composants prêts à coder
 
-À partir de cette bibliothèque, il faut produire :
-1. une fiche détaillée par composant prioritaire
-2. une page de démo UI kit
-3. les premiers composants React + Tailwind
-4. la maquette du dashboard d’accueil
+Cette section prépare les premiers fichiers à créer dans le repo Evoria.
+Hypothèse technique :
+- React
+- TypeScript
+- Tailwind CSS
+- lucide-react pour les icônes
+- clsx et tailwind-merge pour fusionner les classes proprement
+
