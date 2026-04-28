@@ -23,3 +23,11 @@ Evoria est une application web de planification et de suivi d’événements, pe
 
 ## Statut du projet
 En cours de développement
+
+## Licence
+
+Ce projet n’est pas encore distribué sous licence open source.
+
+Le code source est visible publiquement à des fins de suivi, de démonstration et de développement personnel, mais toute réutilisation, modification, redistribution ou exploitation commerciale est interdite sans autorisation écrite préalable.
+
+© 2026 LucyOtto. Tous droits réservés.
