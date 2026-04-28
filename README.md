@@ -30,6 +30,6 @@ Ce projet n’est pas encore distribué sous licence open source.
 
 Le code source est visible publiquement à des fins de suivi, de démonstration et de développement personnel, mais toute réutilisation, modification, redistribution ou exploitation commerciale est interdite sans autorisation écrite préalable.
 
-Voir le fichier [LICENSE](./LICENSE) pour plus d’informations.
+Voir le fichier [LICENSE](./LICENSE.md) pour plus d’informations.
 
 © 2026 LucyOtto. Tous droits réservés.
