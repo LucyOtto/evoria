@@ -1,0 +1,38 @@
+:root {
+  --evoria-bg: #020617;
+  --evoria-surface: #0f172a;
+  --evoria-surface-2: #1e293b;
+  --evoria-border: #334155;
+  --evoria-text: #f8fafc;
+  --evoria-text-muted: #94a3b8;
+
+  --evoria-primary: #2563eb;
+  --evoria-secondary: #7c3aed;
+  --evoria-accent: #ec4899;
+  --evoria-gold: #f59e0b;
+
+  --evoria-success: #22c55e;
+  --evoria-warning: #f59e0b;
+  --evoria-error: #ef4444;
+  --evoria-info: #38bdf8;
+
+  --evoria-gradient: linear-gradient(135deg, #2563eb 0%, #7c3aed 52%, #ec4899 100%);
+}
+
+body {
+  min-height: 100vh;
+  background: var(--evoria-bg);
+  color: var(--evoria-text);
+  font-family: Inter, system-ui, sans-serif;
+}
+
+.evoria-gradient-text {
+  background: var(--evoria-gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.evoria-gradient-bg {
+  background: var(--evoria-gradient);
+}
